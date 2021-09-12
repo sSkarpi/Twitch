@@ -10,8 +10,8 @@ var options = {
         reconnect: true
     },
     identity: {
-        username: "USERNAME",
-        password: "oauth:OAUTHKEY"
+        username: "sSkarpi",
+        password: "@Jvcmm97"
     },
     channels: ["nalcs2",
     "tsm_dyrus",
